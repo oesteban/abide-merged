@@ -1,0 +1,7 @@
+* annex.backend=MD5E
+**/.git* annex.largefiles=nothing
+*.tsv annex.largefiles=nothing
+*.json annex.largefiles=nothing
+README* annex.largefiles=nothing
+*.gii annex.largefiles=anything
+* annex.largefiles=((mimeencoding=binary)and(largerthan=0))
