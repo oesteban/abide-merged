@@ -1,1 +1,1 @@
-../../.git/annex/objects/mQ/7k/MD5E-s141--9fe5f9c151b5eabc01926e6d1b9268c1.txt/MD5E-s141--9fe5f9c151b5eabc01926e6d1b9268c1.txt
+For subject 28903, session 1 is a mix of two visits. Timepoint 1 collected DTI, and timepoint 2 collected the anatomical and resting images.
