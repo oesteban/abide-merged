@@ -2,6 +2,11 @@
 **/.git* annex.largefiles=nothing
 *.tsv annex.largefiles=nothing
 *.json annex.largefiles=nothing
+*.bval annex.largefiles=nothing
+*.bvec annex.largefiles=nothing
+*.bvec* annex.largefiles=nothing
+*.txt annex.largefiles=nothing
+*.csv annex.largefiles=nothing
 README* annex.largefiles=nothing
 *.gii annex.largefiles=anything
 * annex.largefiles=((mimeencoding=binary)and(largerthan=0))
