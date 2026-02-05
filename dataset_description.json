@@ -1,0 +1,11 @@
+{
+  "Name": "ABIDE I+II merged view",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "GeneratedBy": [
+    {
+      "Name": "abide_preproc build_abide_both",
+      "Version": "1.0"
+    }
+  ]
+}
