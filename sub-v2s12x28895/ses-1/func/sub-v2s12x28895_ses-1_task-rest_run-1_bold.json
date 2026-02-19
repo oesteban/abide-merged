@@ -6,7 +6,6 @@
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 90,
   "Instructions": "Participants were instructed to keep their eyes directed on a cross-hair in the center of the projector, relax, and try not to fall asleep for the duration of the scan",
-  "MagneicFieldStrength": 3.0,
   "Manufacturer": "GE",
   "ManufacturersModelName": "MR750",
   "NumberOfSlices": 42,
@@ -17,7 +16,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": "7812.5",
   "PixelSpacing": "3.4375x3.4375",
-  "PlaneOrientationSequentialuence": "Axial",
   "PulseSequenceType": "EPI",
   "ReceiveCoilName": "8 Chan",
   "ReceiveCoilType": "Head",
@@ -71,5 +69,7 @@
   ],
   "SpacingBetweenSlices": 3.4,
   "TaskDescription": " During the resting state scans, participants were instructed to keep their eyes directed on a cross-hair in the center of the projector, relax, and try not to fall asleep for the duration of the scan.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3.0,
+  "PlaneOrientationSequence": "Axial"
 }

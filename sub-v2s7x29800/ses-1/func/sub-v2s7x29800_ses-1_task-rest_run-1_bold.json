@@ -6,7 +6,6 @@
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 90,
   "Instructions": "participants were instructed to relax, fixate on a white cross (against a black background) and think of nothing in particular.",
-  "MagneicFieldStrength": 3.0,
   "Manufacturer": "Philips",
   "ManufacturersModelName": "Achieva Ds",
   "Notes": "Reconstructed voxels 1.56x1.56x2.7",
@@ -18,7 +17,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": "2188",
   "PixelSpacing": "2.5x2.56",
-  "PlaneOrientationSequentialuence": "Axial",
   "PulseSequenceType": "EPI",
   "ReceiveCoilName": "32 Chan",
   "ReceiveCoilType": "Head",
@@ -76,5 +74,7 @@
   ],
   "SpacingBetweenSlices": 3.1,
   "TaskDescription": "Scan sessions started with the acquisition of the anatomical followed by the resting state scan (in turn followed by two task-related fMRI runs). During the resting state scan, participants were instructed to relax, fixate on a white cross (against a black background) and think of nothing in particular.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3.0,
+  "PlaneOrientationSequence": "Axial"
 }

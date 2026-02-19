@@ -5,15 +5,15 @@
   "FieldofViewShape": "Rectangular",
   "FlipAngle": 80,
   "Instructions": " we asked participants to keep their eyes closed.",
-  "MagneicFieldStrength": 3,
   "Manufacturer": "GE",
   "ManufacturersModelName": "Signa",
   "NumberOfSlices": 29.0,
   "PixelSpacing": "3.125x3.125",
-  "PlaneOrientationSequentialuence": "Oblique",
   "PulseSequenceType": "Spiral",
   "ReceiveCoilType": "Head",
   "RepetitionTime": 2.0,
   "SliceThickness": 4.5,
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3,
+  "PlaneOrientationSequence": "Oblique"
 }

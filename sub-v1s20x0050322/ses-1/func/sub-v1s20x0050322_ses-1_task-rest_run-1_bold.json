@@ -6,13 +6,11 @@
   "FieldofViewShape": "Rectangular",
   "FlipAngle": 90,
   "Instructions": "Participants were instructed to let their minds wander and to not think about anything in particular while they looked at the cross.",
-  "MagneicFieldStrength": 3,
   "Manufacturer": "GE",
   "ManufacturersModelName": "Signa",
   "NumberOfSlices": 40.0,
   "PhaseEncodingDirection": "j-",
   "PixelSpacing": "3.438x3.438",
-  "PlaneOrientationSequentialuence": "Axial",
   "PulseSequenceType": "Gradient Echo Reverse Spiral",
   "ReceiveCoilType": "Head",
   "RepetitionTime": 2.0,
@@ -63,5 +61,7 @@
   ],
   "SpacingBetweenSlices": 3.0,
   "TaskDescription": " Participants underwent a 10 minute, eyes-open, resting acquisition in which they looked at a fixation cross in the middle of the screen. ",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3,
+  "PlaneOrientationSequence": "Axial"
 }

@@ -12,7 +12,6 @@
   "NumberofMeasurements": "210",
   "PhaseEncodingDirection": "j-",
   "PixelSpacing": "3x3.1",
-  "PlaneOrientationSequentialuence": "Axial",
   "PulseSequenceType": "EPI",
   "ReceiveCoilName": "32 Chan",
   "ReceiveCoilType": "Head",
@@ -65,5 +64,6 @@
   ],
   "SpacingBetweenSlices": 3.0,
   "TaskDescription": "Resting state was collected with subject's eyes open and fixated on a crosshair in the center of the screen.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "PlaneOrientationSequence": "Axial"
 }

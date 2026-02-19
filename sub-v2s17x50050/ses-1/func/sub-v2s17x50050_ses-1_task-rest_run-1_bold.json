@@ -5,7 +5,6 @@
   "FieldofViewDimensions": "200x200",
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 70,
-  "MagneicFieldStrength": 3.0,
   "Manufacturer": "Siemens",
   "ManufacturersModelName": "Allegra",
   "NumberOfSlices": 29,
@@ -14,7 +13,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": "3126",
   "PixelSpacing": "3.1x3.1",
-  "PlaneOrientationSequentialuence": "Axial>Coronal-18.14",
   "PulseSequenceType": "EPI",
   "ReceiveCoilName": "8 Chan",
   "ReceiveCoilType": "Head",
@@ -56,5 +54,7 @@
   ],
   "SpacingBetweenSlices": 4.0,
   "TaskDescription": "While in the scanner participants completed memory tasks, followed by structural scans. The last run of the scan session was the rest fMRI sequence in which participants were instructed to close their eyes and asked not to fall asleep.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3.0,
+  "PlaneOrientationSequence": "Axial>Coronal-18.14"
 }

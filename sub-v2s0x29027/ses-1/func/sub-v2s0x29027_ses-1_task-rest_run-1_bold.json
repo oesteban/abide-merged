@@ -7,7 +7,6 @@
   "FlipAngle": 80,
   "HardcopyDeviceSoftwareVersion": "5/1/09",
   "Instructions": "Participants were instructed to close their eyes and try not to fall asleep without thinking to hard about anything in particular, letting their mind wander",
-  "MagneicFieldStrength": 3.0,
   "Manufacturer": "Philips",
   "ManufacturersModelName": "Ingenia",
   "NumberOfSlices": 50,
@@ -18,7 +17,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": "3280",
   "PixelSpacing": "3.75X3.75",
-  "PlaneOrientationSequentialuence": "Axial",
   "PulseSequenceType": "EPI",
   "ReceiveCoilName": "15 Chan",
   "ReceiveCoilType": "Head",
@@ -80,5 +78,7 @@
   ],
   "SpacingBetweenSlices": 4.0,
   "TaskDescription": "Resting state fMRI scans were always collected immediately after a localizer, right before an anatomical scan, which in turn, was followed by task-based fMRI scans. Stimulus presentation was via Nordic Neurolab goggles and headphones and the participants had a response device (button press) in the scanner. Resting state scan was collected with eyes closed. During this scan, participants were instructed to close their eyes and try not to fall asleep without thinking to hard about anything in particular, letting their mind wander.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3.0,
+  "PlaneOrientationSequence": "Axial"
 }

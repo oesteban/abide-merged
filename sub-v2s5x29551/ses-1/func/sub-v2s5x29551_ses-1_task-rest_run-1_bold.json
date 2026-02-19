@@ -6,7 +6,6 @@
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 60,
   "Instructions": "Participants were asked to lie still in the scanner, with their eyes open, while staying awake.",
-  "MagneicFieldStrength": 3.0,
   "Manufacturer": "Siemens",
   "ManufacturersModelName": "TriTim",
   "MultibandAccelerationFactor": 3.0,
@@ -17,7 +16,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": "2604",
   "PixelSpacing": "3.4x3.4",
-  "PlaneOrientationSequentialuence": "Axial>Coronal23",
   "PulseSequenceType": "EPI",
   "ReceiveCoilName": "32 Chan",
   "ReceiveCoilType": "Head",
@@ -72,5 +70,7 @@
   ],
   "SpacingBetweenSlices": 3.4,
   "TaskDescription": "No stimuli were shown on a black screen. Participants were instructed to remain awake with eyes open and move as little as possible. Wakefulness was monitored throughout the scan using an MR compatible video camera. Resting-state scans were acquired along with other structural scans, and prior to any task-based experiments.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3.0,
+  "PlaneOrientationSequence": "Axial>Coronal23"
 }

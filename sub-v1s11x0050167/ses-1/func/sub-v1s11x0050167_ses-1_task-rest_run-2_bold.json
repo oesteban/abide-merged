@@ -5,7 +5,6 @@
   "FieldofViewDimensions": "240x240",
   "FieldofViewShape": "Rectangular",
   "FlipAngle": 90,
-  "MagneicFieldStrength": 3,
   "Manufacturer": "Siemens",
   "ManufacturersModelName": "TrioTim",
   "NumberOfSlices": 36.0,
@@ -14,7 +13,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": 2298.0,
   "PixelSpacing": "3.8x3.8",
-  "PlaneOrientationSequentialuence": "Axial > Coronal -6.1",
   "PulseSequenceType": "EPI",
   "ReceiveCoilType": "Head",
   "RepetitionTime": 2.5,
@@ -62,5 +60,7 @@
   ],
   "SpacingBetweenSlices": 3.8,
   "TaskDescription": "Participants were scanned with eyes open; the protocol called for three sequential scans in the same session. Most, but not all participants were able to complete all three scans.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3,
+  "PlaneOrientationSequence": "Axial > Coronal -6.1"
 }

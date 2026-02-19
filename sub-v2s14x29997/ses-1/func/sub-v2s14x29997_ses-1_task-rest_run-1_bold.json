@@ -6,7 +6,6 @@
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 90,
   "Instructions": "Participants were instructed to relax and keep their eyes open.",
-  "MagneicFieldStrength": 3.0,
   "Manufacturer": "Siemens",
   "ManufacturersModelName": "TriTim",
   "NumberOfSlices": 36,
@@ -15,7 +14,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": "2232",
   "PixelSpacing": "3.5x3.5",
-  "PlaneOrientationSequentialuence": "Axial>Coronal-27",
   "PulseSequenceType": "EPI",
   "ReceiveCoilName": "32 Chan",
   "ReceiveCoilType": "Head",
@@ -64,5 +62,7 @@
   ],
   "SpacingBetweenSlices": 4.0,
   "TaskDescription": "Resting state data were collected after structural and task-based functional scans. Stimuli were projected onto a screen viewed through a mirror attached to the head coil. During the rest scan, participants were instructed to relax and keep their eyes open.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3.0,
+  "PlaneOrientationSequence": "Axial>Coronal-27"
 }

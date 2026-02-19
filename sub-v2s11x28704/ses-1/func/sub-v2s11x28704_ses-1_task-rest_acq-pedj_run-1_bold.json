@@ -6,7 +6,6 @@
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 60,
   "Instructions": "Participants were instructed to lie still with their eyes open fixating on a central cross",
-  "MagneicFieldSrengh": 3.0,
   "Manufacturer": "Siemens",
   "ManufacturersModelName": "Skyra",
   "MultibandAccelerationFactor": 8.0,
@@ -17,8 +16,6 @@
   "PhaseEncodingDirection": "j",
   "PixelBandwidth": "2604",
   "PixelSpacing": "3x3",
-  "PlaneOrientationSequentialuence": "Axial",
-  "PulseSequentialuenceType": "EPI",
   "ReceiveCoilName": "32 Chan",
   "ReceiveCoilType": "Head",
   "RepetitionTime": 0.475,
@@ -77,5 +74,8 @@
   ],
   "SpacingBetweenSlices": 3.0,
   "TaskDescription": "Participants were instructed to lie still with their eyes open fixating on a central cross presented on a mirror mounted on the head coil.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3.0,
+  "PlaneOrientationSequence": "Axial",
+  "PulseSequenceType": "EPI"
 }

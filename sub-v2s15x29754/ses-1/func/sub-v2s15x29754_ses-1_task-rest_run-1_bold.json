@@ -7,7 +7,6 @@
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 90,
   "Instructions": "\"Relax and think about whatever you want. Keep your eyes open and keep your head still.\"",
-  "MagneicFieldStrength": 3.0,
   "Manufacturer": "Siemens",
   "ManufacturersModelName": "TriTim",
   "NumberOfSlices": 34,
@@ -16,7 +15,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": "2442",
   "PixelSpacing": "3x3",
-  "PlaneOrientationSequentialuence": "Axial>Coronal-21.1",
   "PulseSequenceType": "EPI",
   "ReceiveCoilName": "12 Chan",
   "ReceiveCoilType": "Head",
@@ -63,5 +61,7 @@
   ],
   "SpacingBetweenSlices": 4.0,
   "TaskDescription": "A white screen with a black fixation cross in the middle was presented. ",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3.0,
+  "PlaneOrientationSequence": "Axial>Coronal-21.1"
 }

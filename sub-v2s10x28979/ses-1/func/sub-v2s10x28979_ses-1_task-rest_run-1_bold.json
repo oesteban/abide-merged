@@ -6,7 +6,6 @@
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 90,
   "Instructions": "Participants were asked to relax with their eyes open",
-  "MagneicFieldStrength": 3.0,
   "Manufacturer": "Siemens",
   "ManufacturersModelName": "TriTim",
   "NumberOfSlices": 36,
@@ -15,7 +14,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": "2298",
   "PixelSpacing": "3.8x3.8",
-  "PlaneOrientationSequentialuence": "Axial>Coronal-6.1",
   "PulseSequenceType": "EPI",
   "ReceiveCoilType": "Head",
   "RepetitionTime": 2.5,
@@ -63,5 +61,7 @@
   ],
   "SpacingBetweenSlices": 3.8,
   "TaskDescription": "During the resting state fMRI scan, participants were asked to relax with their eyes open, while a white cross-hair against a black background was projected on a screen.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3.0,
+  "PlaneOrientationSequence": "Axial>Coronal-6.1"
 }

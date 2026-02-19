@@ -6,7 +6,6 @@
   "FieldofViewShape": "Rectangular",
   "FlipAngle": 90,
   "Instructions": "particpants were instructed to keep their eyes closed and to rest for five minutes.",
-  "MagneicFieldStrength": 3,
   "Manufacturer": "Philips",
   "ManufacturersModelName": "Achieva",
   "NumberOfSlices": 38.0,
@@ -17,7 +16,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": 2419.2,
   "PixelSpacing": "3x3",
-  "PlaneOrientationSequentialuence": "Axial",
   "PulseSequenceType": "EPI",
   "ReceiveCoilType": "Head",
   "RepetitionTime": 2.0,
@@ -66,5 +64,7 @@
     1.9473699999999998
   ],
   "SpacingBetweenSlices": 3.85,
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3,
+  "PlaneOrientationSequence": "Axial"
 }

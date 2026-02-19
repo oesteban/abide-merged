@@ -6,7 +6,6 @@
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 75,
   "Instructions": "Participants were instructed to relax and focus on a crosshair while remaining as still as possible.",
-  "MagneicFieldSrengh": 3.0,
   "Manufacturer": "Philips",
   "ManufacturersModelName": "Achieva",
   "Notes": "Reconstructed voxels 2.67x2.67x3",
@@ -18,8 +17,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": "2697",
   "PixelSpacing": "3x3",
-  "PlaneOrientationSequentialuence": "Axial",
-  "PulseSequentialuenceType": "EPI",
   "ReceiveCoilName": "32 Chan",
   "ReceiveCoilType": "Head",
   "RepetitionTime": 2.5,
@@ -78,5 +75,8 @@
   ],
   "SpacingBetweenSlices": 3.0,
   "TaskDescription": "One resting state fMRI scan was collected either prior or after structural scans (see below for a link of the rest anatomical acquisition order by individual ID). During the resting state scan, children were instructed to relax and focus on a crosshair while remaining as still as possible. During the MPRAGE, children were allowed to watch a movie of their choosing.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3.0,
+  "PlaneOrientationSequence": "Axial",
+  "PulseSequenceType": "EPI"
 }

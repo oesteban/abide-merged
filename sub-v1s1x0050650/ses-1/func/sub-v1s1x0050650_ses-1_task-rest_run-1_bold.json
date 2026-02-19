@@ -6,7 +6,6 @@
   "FieldofViewShape": "Rectangular",
   "FlipAngle": 73,
   "Instructions": "Participants were asked to close their eyes and the room lights were shut off during the rest scan.",
-  "MagneicFieldStrength": 3,
   "Manufacturer": "Siemens",
   "ManufacturersModelName": "Verio",
   "NumberOfSlices": 21.0,
@@ -15,7 +14,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": 1628.0,
   "PixelSpacing": "3x3",
-  "PlaneOrientationSequentialuence": "Axial > Coronal -30",
   "PulseSequenceType": "EPI",
   "ReceiveCoilType": "Head",
   "RepetitionTime": 1.5,
@@ -48,5 +46,7 @@
   ],
   "SpacingBetweenSlices": 4.5,
   "TaskDescription": "Participants were asked to close their eyes and the room lights were shut off during the rest scan. Subjects may have fallen asleep during the scans. Two different sequences were used for collected structural and fMRI data (see below).",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3,
+  "PlaneOrientationSequence": "Axial > Coronal -30"
 }

@@ -7,7 +7,6 @@
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 90,
   "Instructions": "Participants were asked to rest with their eyes open, but to remain awake.",
-  "MagneicFieldStrength": 3.0,
   "Manufacturer": "Siemens",
   "ManufacturersModelName": "TriTim",
   "NumberOfSlices": 43,
@@ -18,7 +17,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": "2442",
   "PixelSpacing": "3x3",
-  "PlaneOrientationSequentialuence": "Axial",
   "PulseSequenceType": "EPI",
   "ReceiveCoilName": "12 Chan",
   "ReceiveCoilType": "Head",
@@ -73,5 +71,7 @@
   ],
   "SpacingBetweenSlices": 3.0,
   "TaskDescription": "Each participant underwent a resting state scan lasting 5 min, 14 s in which they were asked to rest with their eyes open, but to remain awake. Head motion was minimized using foam cushions placed in the space between the participant's head and the headcoil.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3.0,
+  "PlaneOrientationSequence": "Axial"
 }

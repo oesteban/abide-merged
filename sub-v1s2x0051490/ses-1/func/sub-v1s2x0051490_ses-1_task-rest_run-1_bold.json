@@ -6,7 +6,6 @@
   "FieldofViewShape": "Rectangular",
   "FlipAngle": 75,
   "Instructions": "Participants were asked to lie still in the scanner, with their eyes closed, while staying awake. ",
-  "MagneicFieldStrength": 3,
   "Manufacturer": "Siemens",
   "ManufacturersModelName": "TrioTim",
   "NumberOfSlices": 34.0,
@@ -15,7 +14,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": 2604.0,
   "PixelSpacing": "3.5x3.5",
-  "PlaneOrientationSequentialuence": "Axial > Coronal -30",
   "PulseSequenceType": "EPI",
   "ReceiveCoilType": "Head",
   "RepetitionTime": 2.0,
@@ -61,5 +59,7 @@
   ],
   "SpacingBetweenSlices": 3.5,
   "TaskDescription": "Participants were asked to lie still in the scanner, with their eyes closed, while staying awake. No stimuli were shown on the screen. After the scan, all participants confirmed that they remained awake throughout. Resting-state scans were acquired along with other structural scans, but no task-based experiments.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3,
+  "PlaneOrientationSequence": "Axial > Coronal -30"
 }

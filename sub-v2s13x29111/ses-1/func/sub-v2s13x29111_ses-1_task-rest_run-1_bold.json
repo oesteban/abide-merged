@@ -6,7 +6,6 @@
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 90,
   "Instructions": " Participants were asked to look at the red-cross for the duration of the scan",
-  "MagneicFieldStrength": 3.0,
   "Manufacturer": "Philips",
   "ManufacturersModelName": "Achieva",
   "NumberOfSlices": 37,
@@ -17,7 +16,6 @@
   "PhaseEncodingDirection": "j-",
   "PixelBandwidth": "39.5/pixel",
   "PixelSpacing": "3x3",
-  "PlaneOrientationSequentialuence": "Axial",
   "PulseSequenceType": "EPI",
   "ReceiveCoilName": "8 Chan",
   "ReceiveCoilType": "Head",
@@ -67,5 +65,7 @@
   ],
   "SpacingBetweenSlices": 3.55,
   "TaskDescription": "The mirror reflected a visual display (projection of a computer screen), which presented the red-cross. Participants were asked to look at the red-cross for the duration of the scan.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3.0,
+  "PlaneOrientationSequence": "Axial"
 }

@@ -6,7 +6,6 @@
   "FieldofViewShape": "Rectangular",
   "FlipAngle": 90,
   "Instructions": "Most participants were asked to relax with their eyes open, while a white cross-hair against a black background was projected on a screen. However, data were also included for some individuals who were asked to keep their eyes closed",
-  "MagneicFieldStrength": 3,
   "Manufacturer": "Siemens",
   "ManufacturersModelName": "Allegra",
   "NumberOfSlices": 33.0,
@@ -15,7 +14,6 @@
   "PhaseEncodingDirection": "i",
   "PixelBandwidth": 3906.0,
   "PixelSpacing": "3x3",
-  "PlaneOrientationSequentialuence": "Axial > Coronal -23",
   "PulseSequenceType": "EPI",
   "ReceiveCoilType": "Head",
   "RepetitionTime": 2.0,
@@ -60,5 +58,7 @@
   ],
   "SpacingBetweenSlices": 4.0,
   "TaskDescription": " During the resting state fMRI scan, most participants were asked to relax with their eyes open, while a white cross-hair against a black background was projected on a screen. However, data were also included for some individuals who were asked to keep their eyes closed; in a few cases, participants closed their eyes regardless of instructions to maintain them open. Eye status during the MRI scan was monitored via an eye tracker and is detailed for each participant.",
-  "TaskName": "rest"
+  "TaskName": "rest",
+  "MagneticFieldStrength": 3,
+  "PlaneOrientationSequence": "Axial > Coronal -23"
 }
