@@ -1,5 +1,6 @@
 1.1.0 2026-02-19
 
+  - ADD: LICENSE (CC BY-NC-SA 4.0, which is compatible with the original CC BY-NC-SA 3.0).
   - FIX: Replace string-valued RepetitionTime and EchoTime in 95 T1w sidecars
     with numeric values from ABIDE II scan parameter documents (BNI_1: TR=0.0067,
     TE=0.0031; ETHZ_1: TR=0.0084, TE=0.0039).
