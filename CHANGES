@@ -1,0 +1,17 @@
+1.1.0 2026-02-19
+
+  - FIX: Replace string-valued RepetitionTime and EchoTime in 95 T1w sidecars
+    with numeric values from ABIDE II scan parameter documents (BNI_1: TR=0.0067,
+    TE=0.0031; ETHZ_1: TR=0.0084, TE=0.0039).
+  - FIX: Rename misspelled metadata keys in 2,575 JSON sidecars
+    (MagneicFieldStrength, MagneicFieldSrengh -> MagneticFieldStrength;
+    PlaneOrientationSequentialuence -> PlaneOrientationSequence;
+    PulseSequentialuenceType -> PulseSequenceType).
+  - ADD: 360 DWI JSON sidecars for 6 ABIDE II sites (BNI_1, IP_1, NYU_1,
+    NYU_2, SDSU_1, TCD_1) from upstream templates and NITRC scan parameter
+    documents.
+  - ADD: README.md with dataset overview, subject ID scheme, and BIDS audit log.
+
+1.0.0 2025-xx-xx
+
+  - Initial merged BIDS view of ABIDE I + ABIDE II (2,194 subjects).
