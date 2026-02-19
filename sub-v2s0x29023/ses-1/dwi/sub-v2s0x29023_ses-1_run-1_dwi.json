@@ -1,0 +1,23 @@
+{
+  "AcquisitionDuration": "4:34.8",
+  "AcquisitionMatrix": "92x90",
+  "Diffusionb-value": 2500,
+  "EchoTime": 0.101,
+  "FieldofViewDimensions": "271x265",
+  "FieldofViewShape": "Rectangle",
+  "FlipAngle": 90,
+  "MagneticFieldStrength": 3.0,
+  "Manufacturer": "Philips",
+  "ManufacturersModelName": "Ingenia",
+  "NumberOfSlices": 48,
+  "NumberofDirections": 32,
+  "ParallelAcquisition": "Yes",
+  "PulseSequenceType": "EPI",
+  "ReceiveCoilName": "15 Chan",
+  "ReceiveCoilType": "Head",
+  "RepetitionTime": 7.85,
+  "ScanningSequence": "SE-EPI",
+  "SliceEncodingDirection": "k",
+  "SliceThickness": 3.0,
+  "SpacingBetweenSlices": 3.0
+}
