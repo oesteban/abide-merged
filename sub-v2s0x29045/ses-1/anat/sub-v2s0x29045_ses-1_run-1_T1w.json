@@ -1,7 +1,7 @@
 {
   "AcquisitionDuration": "5:34:00",
   "AcquisitionMatrix": "244X227",
-  "EchoTime": "Shortest",
+  "EchoTime": 0.0031,
   "FieldofViewDimensions": "270X252",
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 9,
@@ -20,7 +20,7 @@
   "PlaneOrientationSequence": "Sagittal",
   "ReceiveCoilName": "15 Chan",
   "ReceiveCoilType": "Head",
-  "RepetitionTime": "shortest",
+  "RepetitionTime": 0.0067,
   "ScanningSequence": "MPRAGE",
   "SliceAcquisitionOrder": "Sequential Ascending",
   "SliceEncodingDirection": "i",

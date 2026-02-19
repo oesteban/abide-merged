@@ -1,7 +1,7 @@
 {
   "AcquisitionDuration": "5:46:00",
   "AcquisitionMatrix": "256x256",
-  "EchoTime": "Shortest",
+  "EchoTime": 0.0039,
   "FieldofViewDimensions": "230x230",
   "FieldofViewShape": "Rectangle",
   "FlipAngle": 8,
@@ -17,7 +17,7 @@
   "PlaneOrientationSequence": "Axial",
   "ReceiveCoilName": "32 Chan",
   "ReceiveCoilType": "Head",
-  "RepetitionTime": "0.0084",
+  "RepetitionTime": 0.0084,
   "ScanningSequence": "3D TFE",
   "SliceThickness": 0.9
 }
