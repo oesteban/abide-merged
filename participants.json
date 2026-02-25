@@ -1,0 +1,32 @@
+{
+  "group": {
+    "Description": "Diagnostic group",
+    "Levels": {
+      "ASD": "Autism Spectrum Disorder",
+      "TC": "Typical Control"
+    }
+  },
+  "age": {
+    "Description": "Age at scan in years",
+    "Units": "years"
+  },
+  "sex": {
+    "Description": "Biological sex",
+    "Levels": {
+      "M": "Male",
+      "F": "Female"
+    }
+  },
+  "handedness": {
+    "Description": "Handedness category",
+    "Levels": {
+      "R": "Right",
+      "L": "Left",
+      "Mixed": "Mixed",
+      "Ambi": "Ambidextrous"
+    }
+  },
+  "fiq": {
+    "Description": "Full-scale IQ"
+  }
+}
